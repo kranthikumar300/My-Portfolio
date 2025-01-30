@@ -8,7 +8,7 @@ const HeroIntro = () =>  {
           <motion.div 
              initial = {{opacity : 0, scale : 0}}
              animate ={{opacity : 1, scale : 1}}
-             transition={{duration : 0.5, type : "spring", ease : "easeInOut"}}
+             transition={{duration : 1, type : "spring", ease : "easeInOut"}}
              viewport={{once : true}}
              className="flex justify-center mb-5">
               <img
