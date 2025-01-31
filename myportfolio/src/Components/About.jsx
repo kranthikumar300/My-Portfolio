@@ -7,7 +7,7 @@ const About = () => {
             <div className="space-y-10">
                 <h1 className="text-3xl flex justify-center underline decoration-[#70d170] underline-offset-10">Know Me</h1>
                 <p 
-                className="text-center">Hi, I'm Kranthi! <br />
+                className="text-center px-4">Hi, I'm Kranthi! <br />
                     I'm a passionate and enthusiastic full-stack web developer with a strong foundation in React, Tailwind CSS, and Vite. <br />
                     My journey in web development began with a fascination for building dynamic and responsive user experiences. <br />
                     Over time, I’ve mastered front-end technologies and expanded my skills to backend development with Python and Flask,<br />
@@ -22,7 +22,7 @@ const About = () => {
               viewport={{once : true}}
               className="space-y-10">
                 <h1 className="text-3xl flex justify-center underline decoration-[#70d170] underline-offset-10">Education</h1>
-                <p className="text-center">
+                <p className="text-center px-4">
                 I hold a Bachelor's degree in <span className="font-bold">Computer Science and Engineering</span> <br />
                 from Swarna Bharathi Institute of Science and Technology, Khammam, <br /> 
                 and a <span className="font-bold"> Diploma in Civil Engineering</span> <br />
@@ -36,7 +36,7 @@ const About = () => {
              viewport={{once : true}}
              className="space-y-10">
                 <h1 className="text-3xl flex justify-center underline decoration-[#70d170] underline-offset-10">Cerifications</h1>
-                <p className="text-center">
+                <p className="text-center px-4">
                 I have earned certifications in <span className="font-bold">JavaScript, React.js, and Python</span>  <br /> 
                 which have fueled my passion for building dynamic and <br />
                 functional web applications.My expertise in both frontend and backend technologies <br /> 
