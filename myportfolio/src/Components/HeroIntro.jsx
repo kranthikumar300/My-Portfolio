@@ -29,7 +29,7 @@ const HeroIntro = () =>  {
              initial = {{opacity : 0, translateX : -100}}
              animate = {{opacity : 1, translateX : 0}}
              transition={{duration : 0.6}}
-             className="text-lg grid sm:text-xl md:text-xl py-4">"I build dynamic, responsive websites with React, Tailwind CSS, and JavaScript,<br />
+             className="text-lg grid sm:text-xl md:text-xl py-4 px-4">"I build dynamic, responsive websites with React, Tailwind CSS, and JavaScript,<br />
               crafting seamless user experiences and scalable,<br />
               efficient web solutions."
             </motion.p>
