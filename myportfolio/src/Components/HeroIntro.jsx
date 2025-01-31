@@ -7,7 +7,7 @@ const HeroIntro = () =>  {
           <div>
           <motion.div 
              initial = {{opacity : 0, scale : 0}}
-             animate ={{opacity : 1, scale : 1}}
+             whileInView ={{opacity : 1, scale : 1}}
              transition={{duration : 1, type : "spring", ease : "easeInOut"}}
              viewport={{once : true}}
              className="flex justify-center mb-5">
