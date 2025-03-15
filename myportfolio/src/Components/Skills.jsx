@@ -47,8 +47,8 @@ const Skills = () => {
                <img src="https://simpleicons.org/icons/redux.svg" alt="redux" className="h-16 w-16" />
          </div>
          <div className="flex gap-15">
-               <img src="https://simpleicons.org/icons/python.svg" alt="Python" className="h-16 w-16" />
-               <img src="https://simpleicons.org/icons/flask.svg" alt="Flask" className="h-16 w-16" />
+               <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="node.js" className="h-16 w-16" />
+               <img src="https://simpleicons.org/icons/express.svg" alt="express.js" className="h-16 w-16" />
          </div>
         </div>
         
