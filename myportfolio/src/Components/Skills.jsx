@@ -49,6 +49,7 @@ const Skills = () => {
          <div className="flex gap-15">
                <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="node.js" className="h-16 w-16" />
                <img src="https://simpleicons.org/icons/express.svg" alt="express.js" className="h-16 w-16" />
+               <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" className="h-16 w-16" />
          </div>
         </div>
         
