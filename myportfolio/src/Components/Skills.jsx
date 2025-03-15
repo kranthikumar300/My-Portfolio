@@ -34,7 +34,7 @@ const Skills = () => {
             </svg>
             </div>
             <h2 className="font-bold">BackEnd Development</h2>
-            <p>Python, Flask</p>
+            <p>Node.js, Express.js, MongoDB</p>
          </motion.div>
 
         </div>

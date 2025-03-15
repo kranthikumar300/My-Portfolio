@@ -8,7 +8,7 @@ const About = () => {
                 <h1 className="text-3xl flex justify-center underline decoration-[#70d170] underline-offset-10">Know Me</h1>
                 <p 
                 className="text-center px-4">Hi, I'm Kranthi! <br />
-                    I'm a passionate and enthusiastic full-stack web developer with a strong foundation in React, Tailwind CSS, and Vite. <br />
+                    I'm a passionate and enthusiastic MERN stack web developer with a strong foundation in React, Tailwind CSS, and Vite. <br />
                     My journey in web development began with a fascination for building dynamic and responsive user experiences. <br />
                     Over time, I’ve mastered front-end technologies and expanded my skills to backend development with Python and Flask,<br />
                     allowing me to craft sleek, functional, and scalable web applications.
@@ -37,7 +37,7 @@ const About = () => {
              className="space-y-10">
                 <h1 className="text-3xl flex justify-center underline decoration-[#70d170] underline-offset-10">Cerifications</h1>
                 <p className="text-center px-4">
-                I have earned certifications in <span className="font-bold">JavaScript, React.js, and Python</span>  <br /> 
+                I have earned certifications in <span className="font-bold">JavaScript, React.js, Node.js, Express.js, MongoDB</span>  <br /> 
                 which have fueled my passion for building dynamic and <br />
                 functional web applications.My expertise in both frontend and backend technologies <br /> 
                 allows me to create responsive, user-friendly, and scalable digital solutions.

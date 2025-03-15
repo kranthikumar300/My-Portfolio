@@ -22,7 +22,7 @@ const HeroIntro = () =>  {
             initial = {{opacity : 0, translateY : -70}}
             animate = {{opacity : 1, translateY : 0}}
             transition={{duration : 0.4, ease : "easeInOut"}}
-            className="text-3xl grid sm:text-4xl md:text-5xl py-2 px-4">Hey, <br /> I'm Kranthi <br /> Full Stack Developer
+            className="text-3xl grid sm:text-4xl md:text-5xl py-2 px-4">Hey, <br /> I'm Kranthi <br /> MERN Stack Developer
            </motion.h1>
 
             <motion.p
