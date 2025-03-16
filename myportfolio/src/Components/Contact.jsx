@@ -14,7 +14,7 @@ const Contact = () => {
 
     return(
         <div className= "pt-10 space-y-10">
-           <h1 className="flext justify-center text-center text-3xl underline decoration-[#70d170] underline-offset-10">Contact</h1>
+           <h1 className="flex justify-center text-center text-3xl underline decoration-[#70d170] underline-offset-10">Contact</h1>
            <motion.p
             initial = {{opacity : 0, translateY : -50}}
             whileInView={{opacity : 1, translateY : 0}}
